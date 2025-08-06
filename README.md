@@ -22,5 +22,5 @@ Este projeto utiliza dados sintéticos da indústria de fertilizantes para aplic
 📦 analise-industria-fertilizantes
 ┣ 📄 industria_fertilizantes_analise.ipynb
 ┣ 📄 README.md
-┗ 📊 dados (opcional para o CSV)
+┗ 📊 dados (csv)
 
